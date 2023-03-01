@@ -36,9 +36,9 @@ Watch Video:-
 
 
 `Problem statement`
--The price of a car depends on a lot of factors like the goodwill of the brand of the car, features of the car, horsepower and the mileage it gives and many more. 
--Car price prediction is one of the major research areas in machine learning. 
--So if you want to learn how to train a car price prediction model then this project is for you.
+- The price of a car depends on a lot of factors like the goodwill of the brand of the car, features of the car, horsepower and the mileage it gives and many more. 
+- Car price prediction is one of the major research areas in machine learning. 
+- So if you want to learn how to train a car price prediction model then this project is for you.
 
 Download dataset:-
 [Dataset.csv](https://raw.githubusercontent.com/amankharwal/Website-data/master/CarPrice.csv)
@@ -53,9 +53,9 @@ Watch Video:-
 
 `Problem statement`
 
--Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spend to advertise your product.
--the segment of people you advertise for, 
--the platform you are advertising on about your product.
+- Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spend to advertise your product.
+- the segment of people you advertise for, 
+- the platform you are advertising on about your product.
 
 
 Download dataset:-
