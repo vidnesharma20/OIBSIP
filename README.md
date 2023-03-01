@@ -3,6 +3,7 @@
 
 
 
+<img align ="right" alt ="code" width ="320" src = "https://repository-images.githubusercontent.com/534965139/0f8a1508-fbd5-49af-89d7-27e3809353c0">
 
 [![AGPL License](https://img.shields.io/badge/IRIS_FLOWER_CLASSIFICATION-TASK_01-Green.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
